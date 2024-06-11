@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Vertical Step solution.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9401788"
+     inkscape:cx="850.17937"
+     inkscape:cy="642.20885"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="532.91803"
+       y="363.00104"
+       width="53.221874"
+       height="28.717306"
+       id="rect24" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 29.147629,49.637552 60.087406,80.577329 H 110.03932 L 61.027355,31.565364"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 60.087406,80.577329 85.06336,55.601372"
+       id="path2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.30706px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-2.0103483"
+       y="95.575165"
+       id="text2"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.264583"
+         x="-2.0103483"
+         y="95.575165">TH</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.063361,80.577329 v 7.236584"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.03932,80.577329 0.1065,7.236582"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 85.063361,84.19562 H 110.09257"
+       id="path5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.18299px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="89.887817"
+       y="87.991829"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.264583"
+         x="89.887817"
+         y="87.991829">sqrt(2) / 2 units </tspan></text>
+    <path
+       style="fill:#9b9b9b;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+       id="path6"
+       sodipodi:type="arc"
+       sodipodi:cx="-109.8409"
+       sodipodi:cy="-80.509239"
+       sodipodi:rx="9.0268087"
+       sodipodi:ry="9.0268087"
+       sodipodi:start="0"
+       sodipodi:end="0.79772245"
+       sodipodi:arc-type="slice"
+       d="m -100.81409,-80.509239 a 9.0268087,9.0268087 0 0 1 -2.72304,6.461096 l -6.30377,-6.461096 z"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.28968px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="98.519279"
+       y="79.129906"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.264583"
+         x="98.519279"
+         y="79.129906">30degs</tspan></text>
+    <path
+       style="fill:#9b9b9b;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+       id="path6-5"
+       sodipodi:type="arc"
+       sodipodi:cx="60.285824"
+       sodipodi:cy="-80.511185"
+       sodipodi:rx="9.0268087"
+       sodipodi:ry="9.0268087"
+       sodipodi:start="0"
+       sodipodi:end="0.79772245"
+       sodipodi:arc-type="slice"
+       d="m 69.312633,-80.511185 a 9.0268087,9.0268087 0 0 1 -2.723039,6.461096 l -6.30377,-6.461096 z"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.28968px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.652138"
+       y="79.268219"
+       id="text6-3"><tspan
+         sodipodi:role="line"
+         id="tspan6-5"
+         style="stroke-width:0.264583"
+         x="65.652138"
+         y="79.268219">30degs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.21972px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="-2.6978126"
+       y="97.720367"
+       id="text7"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.264582"
+         x="-2.6978126"
+         y="97.720367">tile height</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 85.063358,55.601372 V 80.577329"
+       id="path7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.49573px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="86.583862"
+       y="72.267441"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.264583"
+         x="86.583862"
+         y="72.267441">up</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.49573px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.134628"
+       y="-172.23962"
+       id="text8-9"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan8-7"
+         style="stroke-width:0.264583"
+         x="69.134628"
+         y="-172.23962">up</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.4653px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.035702"
+       y="100.06713"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.264583"
+         x="50.035702"
+         y="100.06713">up / (sqrt(2) / 2units) = tan (30)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.08783px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.989796"
+       y="107.31103"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.264583"
+         x="53.989796"
+         y="107.31103">up = tan(30) * (sqrt(2) / 2units) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.08783px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.513367"
+       y="114.42213"
+       id="text11-1"><tspan
+         sodipodi:role="line"
+         id="tspan11-2"
+         style="stroke-width:0.264583"
+         x="63.513367"
+         y="114.42213">up =~ 0,40824829 </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 113.94822,49.637552 144.888,80.577329 M 170.44757,36.106828 148.86575,15.11017"
+       id="path11"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 144.888,80.577329 170.27938,55.288518"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.30706px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.903198"
+       y="135.67032"
+       id="text12"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:0.264583"
+         x="75.903198"
+         y="135.67032">DIFF</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.86396,80.577329 v 7.236584"
+       id="path13" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.83991,80.577329 0.1065,7.236582"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.86396,84.19562 h 25.0292"
+       id="path15" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.18299px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="174.68842"
+       y="87.991829"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.264583"
+         x="174.68842"
+         y="87.991829">sqrt(2) / 2 units </tspan></text>
+    <path
+       style="fill:#9b9b9b;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+       id="path16"
+       sodipodi:type="arc"
+       sodipodi:cx="-194.64149"
+       sodipodi:cy="-80.509239"
+       sodipodi:rx="9.0268087"
+       sodipodi:ry="9.0268087"
+       sodipodi:start="0"
+       sodipodi:end="0.7985265"
+       sodipodi:arc-type="slice"
+       d="m -185.61469,-80.509239 a 9.0268087,9.0268087 0 0 1 -2.72823,6.466162 l -6.29857,-6.466162 z"
+       transform="scale(-1)" />
+    <path
+       style="fill:#9b9b9b;stroke:#000000;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round"
+       id="path17"
+       sodipodi:type="arc"
+       sodipodi:cx="145.08643"
+       sodipodi:cy="-80.511185"
+       sodipodi:rx="9.0268087"
+       sodipodi:ry="9.0268087"
+       sodipodi:start="0"
+       sodipodi:end="0.79772245"
+       sodipodi:arc-type="slice"
+       d="m 154.11323,-80.511185 a 9.0268087,9.0268087 0 0 1 -2.72303,6.461096 l -6.30377,-6.461096 z"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.28968px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.45273"
+       y="79.268219"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="stroke-width:0.264583"
+         x="150.45273"
+         y="79.268219">Ydegs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.21972px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="80.184357"
+       y="140.61641"
+       id="text18"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264582"
+         x="80.184357"
+         y="140.61641">difference in vertical</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264582"
+         x="80.184357"
+         y="143.39105"
+         id="tspan20">axis on the screen </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264582"
+         x="80.184357"
+         y="146.16571"
+         id="tspan21">for the isometric distance</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264582"
+         x="80.184357"
+         y="148.94035"
+         id="tspan22">to be 1 unit</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 170.44757,36.106828 -0.58362,44.470501"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.49573px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.954895"
+       y="-171.55174"
+       id="text19"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="stroke-width:0.264583"
+         x="54.954895"
+         y="-171.55174">1 unit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="146.3055"
+       y="98.41716"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="stroke-width:0.264583"
+         x="146.3055"
+         y="98.41716" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text24"
+       style="font-size:13.3333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24);display:inline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 194.83991,80.577329 136.84193,21.4552"
+       id="path28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.27696px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.674461"
+       y="189.59781"
+       id="text29"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="stroke-width:0.264583"
+         x="75.674461"
+         y="189.59781">30degs</tspan></text>
+    <path
+       style="fill:#9b9b9b;stroke:#000000;stroke-width:0.132383;stroke-linecap:round;stroke-linejoin:round"
+       id="path16-3"
+       sodipodi:type="arc"
+       sodipodi:cx="76.115608"
+       sodipodi:cy="192.90309"
+       sodipodi:rx="6.9498801"
+       sodipodi:ry="6.9498801"
+       sodipodi:start="0"
+       sodipodi:end="0.7985265"
+       sodipodi:arc-type="slice"
+       d="m 83.065488,192.90309 a 6.9498801,6.9498801 0 0 1 -2.100511,4.9784 l -4.849369,-4.9784 z"
+       transform="matrix(0.72539504,-0.6883328,0.72539504,0.6883328,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.27696px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="196.80215"
+       y="80.111328"
+       id="text29-6"><tspan
+         sodipodi:role="line"
+         id="tspan29-1"
+         style="stroke-width:0.264583"
+         x="196.80215"
+         y="80.111328">60degs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.88456px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="172.81631"
+       y="-41.728882"
+       id="text29-2"
+       transform="rotate(30)"><tspan
+         sodipodi:role="line"
+         id="tspan29-9"
+         style="stroke-width:0.264583"
+         x="172.81631"
+         y="-41.728882">30degs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.30706px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="60.745468"
+       y="155.68272"
+       id="text32"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="stroke-width:0.264583"
+         x="60.745468"
+         y="155.68272">TH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.21972px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="60.058002"
+       y="157.82793"
+       id="text33"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         style="stroke-width:0.264582"
+         x="60.058002"
+         y="157.82793">tile height</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 170.44757,36.106827 43.78216,44.468555"
+       id="path33" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.64149,80.509239 19.58824,0.06614"
+       id="path34" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 170.27938,55.288518 9.80255,-9.396288"
+       id="path35" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.41372px;line-height:1.05;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.855503"
+       y="-172.84016"
+       id="text35"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         style="line-height:1.05;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="45.855503"
+         y="-172.84016">1 unit</tspan><tspan
+         sodipodi:role="line"
+         style="line-height:1.05;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="45.855503"
+         y="-171.35576"
+         id="tspan36">- up</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.5176px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="87.399185"
+       y="162.25565"
+       id="text37"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         style="stroke-width:0.264583"
+         x="87.399185"
+         y="162.25565">add</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 195.17023,80.47988 9.80255,-9.396288"
+       id="path35-4" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.5176px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="88.911072"
+       y="197.24425"
+       id="text37-7"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan37-8"
+         style="stroke-width:0.264583"
+         x="88.911072"
+         y="197.24425">add</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="141.79562"
+       y="100.54667"
+       id="text38"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="141.79562"
+         y="100.54667"
+         id="tspan39">cos(30) = add(units) / (1 unit - up) </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 194.64149,80.509239 144.888,80.577329"
+       id="path40" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="198.49777"
+       y="84.666138"
+       id="text41"><tspan
+         sodipodi:role="line"
+         id="tspan41"
+         style="stroke-width:0.264583"
+         x="198.49777"
+         y="84.666138">add(flat)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="147.93295"
+       y="115.41752"
+       id="text42"><tspan
+         sodipodi:role="line"
+         id="tspan42"
+         style="stroke-width:0.264583"
+         x="147.93295"
+         y="115.41752">cos(60) = add(units) / add(flat)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="147.93295"
+       y="118.8316"
+       id="text43"><tspan
+         sodipodi:role="line"
+         id="tspan43"
+         style="stroke-width:0.264583"
+         x="147.93295"
+         y="118.8316">add(flat) = add(units) / cos(60)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="141.74481"
+       y="104.08147"
+       id="text44"><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         style="stroke-width:0.264583"
+         x="141.74481"
+         y="104.08147">add(units) = cos(30) * (1 unit - up)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="136.20129"
+       y="130.01965"
+       id="text45"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="stroke-width:0.264583"
+         x="136.20129"
+         y="130.01965">add(flat) / sqrt(2) = add(pixels) / TH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="148.01001"
+       y="156.28397"
+       id="text47"><tspan
+         sodipodi:role="line"
+         id="tspan47"
+         style="stroke-width:0.264583"
+         x="148.01001"
+         y="156.28397">DIFF = TH / 2 + add(pixels)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="265.60406"
+       y="139.47289"
+       id="text49"><tspan
+         sodipodi:role="line"
+         id="tspan49"
+         style="stroke-width:0.264583"
+         x="265.60406"
+         y="139.47289">x = a + y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="245.70657"
+       y="103.17528"
+       id="text50"><tspan
+         sodipodi:role="line"
+         id="tspan50"
+         style="stroke-width:0.264583"
+         x="245.70657"
+         y="103.17528">x = DIFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="245.70312"
+       y="109.75099"
+       id="text51"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         style="stroke-width:0.264583"
+         x="245.70312"
+         y="109.75099">y = add(pixels)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="245.65662"
+       y="116.21819"
+       id="text52"><tspan
+         sodipodi:role="line"
+         id="tspan52"
+         style="stroke-width:0.264583"
+         x="245.65662"
+         y="116.21819">z = add(flat)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="245.61356"
+       y="122.68538"
+       id="text53"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         style="stroke-width:0.264583"
+         x="245.61356"
+         y="122.68538">q = add(units)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="265.38531"
+       y="171.30934"
+       id="text54"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         style="stroke-width:0.264583"
+         x="265.38531"
+         y="171.30934">r = 1 - (tan(30) * (sqrt(2) / 2))</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="265.60065"
+       y="146.99736"
+       id="text55"><tspan
+         sodipodi:role="line"
+         id="tspan55"
+         style="stroke-width:0.264583"
+         x="265.60065"
+         y="146.99736">y = (z / sqrt(2)) * a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="265.55414"
+       y="155.04742"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         style="stroke-width:0.264583"
+         x="265.55414"
+         y="155.04742">z = q / cos(60)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="265.51105"
+       y="163.04089"
+       id="text57"><tspan
+         sodipodi:role="line"
+         id="tspan57"
+         style="stroke-width:0.264583"
+         x="265.51105"
+         y="163.04089">q = cos(30) * r </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="265.49384"
+       y="132.9278"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan58"
+         style="stroke-width:0.264583"
+         x="265.49384"
+         y="132.9278">a = TH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="135.97632"
+       y="134.85368"
+       id="text59"><tspan
+         sodipodi:role="line"
+         id="tspan59"
+         style="stroke-width:0.264583"
+         x="135.97632"
+         y="134.85368">add(pixels) = (add(flat) / sqrt(2)) * TH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:0.95;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="241.49461"
+       y="198.33363"
+       id="text60"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         style="stroke-width:0.264583"
+         x="241.49461"
+         y="198.33363">x = (a / 2) * (sqrt(6))</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 169.86396,80.577329 113.6771,24.390466"
+       id="path60" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="241.37595"
+       y="206.19234"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.264583"
+         x="241.37595"
+         y="206.19234">DIFF = (TH / 2) * (sqrt(6))</tspan></text>
+  </g>
+</svg>
